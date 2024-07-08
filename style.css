@@ -107,7 +107,7 @@ main {
 }
 
 .discount-page > img {
-  border: 1px dashed rgba(142, 137, 137, 0.61);
+  /* border: 1px dashed rgba(142, 137, 137, 0.61); */
   width: 802px;
 }
 
